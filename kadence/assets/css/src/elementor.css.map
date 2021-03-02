@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA;;GAEG;AACF,AAAA,KAAK,CAAC,IAAI,CAAA,AAAA,KAAC,EAAO,iBAAiB,AAAxB,EAA0B;EAClC,yBAAyB,CAAA,uBAAC;EAC7B,yBAAyB,CAAA,uBAAC;EAC1B,yBAAyB,CAAA,uBAAC;EAC1B,yBAAyB,CAAA,uBAAC;EAC1B,yBAAyB,CAAA,uBAAC;EAC1B,yBAAyB,CAAA,uBAAC;EAC1B,yBAAyB,CAAA,uBAAC;EAC1B,yBAAyB,CAAA,uBAAC;EAC1B,yBAAyB,CAAA,uBAAC;CAC1B",
+    "sources": [
+        "elementor.scss"
+    ],
+    "names": [],
+    "file": "elementor.css"
+}
