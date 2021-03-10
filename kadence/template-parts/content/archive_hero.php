@@ -19,20 +19,20 @@ if ( empty( $slug ) ) {
 	}
 }
 ?>
-<section class="<?php echo esc_attr( implode( ' ', get_archive_hero_classes() ) ); ?>">
+<!--<section class="<?php //echo esc_attr( implode( ' ', get_archive_hero_classes() ) ); ?>">
 	<div class="entry-hero-container-inner">
 		<div class="hero-section-overlay"></div>
 		<div class="hero-container site-container">
-			<header class="<?php echo esc_attr( implode( ' ', get_archive_title_classes() ) ); ?>">
+			<header class="<?php //echo esc_attr( implode( ' ', get_archive_title_classes() ) ); ?>">
 				<?php
 				/**
 				 * Kadence Entry Hero
 				 *
 				 * Hooked kadence_entry_archive_header 10
 				 */
-				do_action( 'kadence_entry_archive_hero', $slug . '_archive', 'above' );
+				//do_action( 'kadence_entry_archive_hero', $slug . '_archive', 'above' );
 				?>
 			</header><!-- .entry-header -->
-		</div>
+		<!--</div>
 	</div>
 </section><!-- .entry-hero -->

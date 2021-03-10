@@ -104,8 +104,8 @@ function get_archive_container_classes() {
 			$classes[] = 'grid-lg-col-4';
 			$classes[] = 'item-image-style-above';
 		} else {
-			$classes[] = 'grid-sm-col-2';
-			$classes[] = 'grid-lg-col-3';
+			$classes[] = 'grid-sm-col-1';
+			$classes[] = 'grid-lg-col-2';
 			$classes[] = 'item-image-style-above';
 		}
 	} elseif ( kadence()->option( get_post_type() . '_archive_columns' ) ) {
